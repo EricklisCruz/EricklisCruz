@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Cursando Sistemas para Internet
-- 🌱 Estou aprendendo Java
+- Cursando Sistemas para Internet
+- Estou aprendendo Java
 <div align="center">
   <a href="https://github.com/erickliscruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickliscruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
