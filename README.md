@@ -2,7 +2,7 @@
 
 
 
-- Cursando Sistemas para Internet
+- Tecnólogo em Sistemas para Internet
 - Estou aprendendo Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"    alt="java" width="40" height="40"/> </a>
 - Estou aprendendo React Native <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a>
 <div align="center">
