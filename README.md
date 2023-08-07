@@ -1,29 +1,18 @@
-### Olá, eu sou Ericklis Cruz!
+# Ericklis Cruz
+
+Hello!!! I'm Ericklis a backend developer. You can contact me clicking in the links 
+## Social Medias
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ericklis-cruz/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/EricklisCruz/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/erickliscruz/) [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/EricklisDev) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ericklisrpdc/)
+
+## Skills
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![Spring Boot](https://img.shields.io/badge/springboot-000?style=for-the-badge&logo=springboot) ![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostegreSQL-000?style=for-the-badge&logo=postgresql)
+
+## GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricklisCruz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricklisCruz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
-- Tecnólogo em Sistemas para Internet
-- Dev back-end <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"    alt="java" width="40" height="40"/> </a>
-<div align="center">
-  <a href="https://github.com/erickliscruz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erickliscruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="160em" width = "410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickliscruz&layout=compact&langs_count=100&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-
-  <p align="left">
-  </p>
-
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-</div>
-  
-   ##
-   
- 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ericklis-cruz-a56908206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ericklis-cruz-a56908206/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ericklisrpdc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ericklisrpdc/" height="30" width="40" /></a>
-</p>
