@@ -1,4 +1,4 @@
-# Welcome to my perfil!!!
+# Welcome to my profile!!!
 
 Hello!!! I'm Ericklis a backend developer. You can contact me clicking in the links 
 ## Social Medias
